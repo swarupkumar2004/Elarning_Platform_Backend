@@ -1,5 +1,5 @@
 # Elarning_Platform_Backend
-📚 eLearning Platform Backend
+# 🎓 eLearning Platform Backend 
 
 This is a Django-based backend for an online learning platform. It enables instructors to create courses and quizzes, and allows students to enroll and submit answers to quizzes. Authentication is handled using token-based login.
 
