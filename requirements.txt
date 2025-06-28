@@ -1,0 +1,7 @@
+Django>=5.0,<6.0
+djangorestframework>=3.14.0
+djangorestframework-authtoken
+psycopg2-binary ; if you're using PostgreSQL, else remove this
+Pillow
+python-decouple
+django-cors-headers
